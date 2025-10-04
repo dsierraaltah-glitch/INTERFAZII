@@ -29,6 +29,7 @@ void loop() {   // Se repite infinitamente
   delay(90);  
 }
 ```
+
 ### Ejercicio 3
 ```js
 void setup() {
@@ -54,6 +55,9 @@ void loop() {
   analogWrite(9, brillo);               // Ajustar brillo
 }
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20boton.jpeg">
+
+
 ### Ejercicio 5
 ```js
 int LED_1 = 6;  // Luz roja autos
@@ -98,6 +102,7 @@ void loop() {
  //  digitalWrite(LED_5, HIGH);  // Rojo peatones encendido
  // delay(2000); // 2 segundos}
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/semnaforo.jpeg">
 
 ## Arduino y processing
 ### Ejercicio 6
@@ -176,6 +181,8 @@ void loop() {
   }
 }
 ```
+
+
 ```js
 import processing.serial.*;
 
