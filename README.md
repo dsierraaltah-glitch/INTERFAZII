@@ -59,6 +59,7 @@ void loop() {
 }
 ```
 <img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20potenciador.jpeg">
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20potenciador%20fisico.png">
 
 ### Ejercicio 5
 ```js
@@ -105,6 +106,7 @@ void loop() {
  // delay(2000); // 2 segundos}
 ```
 <img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/semnaforo.jpeg">
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/semaforo%20fis.png">
 
 ## Arduino y processing
 ### Ejercicio 6
@@ -400,6 +402,10 @@ void loop() {
   delay(10);
 }
 ```
+
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/botonera.jpeg">
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/botonera.png">
+
 ```js
 // Importamos librería para comunicación serial
 import processing.serial.*;
@@ -481,4 +487,3 @@ void playTrack(int index) {
   currentTrack = index;
 }
 ```
-<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/botonera.jpeg">
