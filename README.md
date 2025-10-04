@@ -329,6 +329,8 @@ void loop() {
   delay(500); // medio segundo entre lecturas
 }
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/if%20else.jpeg">
+
 ### Ejercicio 10
 ```js
 const int numButtons = 3;
@@ -479,3 +481,4 @@ void playTrack(int index) {
   currentTrack = index;
 }
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/botonera.jpeg">
