@@ -44,6 +44,9 @@ void loop() {
   }
 }
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20boton.jpeg">
+
+
 ### Ejercicio 4
 ```js
 void setup() {
@@ -55,8 +58,7 @@ void loop() {
   analogWrite(9, brillo);               // Ajustar brillo
 }
 ```
-<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20boton.jpeg">
-
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/led%20potenciador.jpeg">
 
 ### Ejercicio 5
 ```js
