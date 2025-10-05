@@ -166,6 +166,8 @@ void draw()
   ellipse(width/2, height/2, d, d);   
 }
 ```
+<img src= "https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/processing1.png">
+
 ### Ejercicio 7
 ```js
 int buttonPin = 2;  // Pin del botón
