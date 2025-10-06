@@ -501,4 +501,4 @@ void loop() {
 }
 ```
 
-<img src="">
+<img src="https://github.com/dsierraaltah-glitch/INTERFAZII/blob/main/IMG-20251006-WA0014.jpeg">
